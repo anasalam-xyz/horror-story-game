@@ -2,6 +2,8 @@
 
 A simple text-based interactive story game built with React. Make choices, follow the story, and explore different outcomes!
 
+* Play here - https://anasalam-xyz.github.io/horror-story-game/
+
 ## Features
 
 - Text-based narrative displayed one scene at a time
@@ -20,7 +22,7 @@ A simple text-based interactive story game built with React. Make choices, follo
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/anasalam-xyz/horror-story-game/
     ```
 
 2. Install Dependencies
@@ -33,7 +35,7 @@ A simple text-based interactive story game built with React. Make choices, follo
     npm run dev
     ```
 
-##Technologies Used
+## Technologies Used
 - React
 - Tailwind CSS
 
